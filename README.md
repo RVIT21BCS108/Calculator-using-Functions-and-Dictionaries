@@ -1,1 +1,2 @@
-# Calculator-using-Functions-and-Dictionaries
+The Calculator project is a Python-based console application that performs basic arithmetic operations. It allows users to add, subtract, multiply, and divide two numbers. Users can continue calculations using the result of the previous operation or start a new calculation. The project uses a dictionary to map operation symbols to corresponding functions and includes a function to clear the console for better user experience. The calculator runs in a loop, enabling continuous operation until the user decides to start over or exit.
+
